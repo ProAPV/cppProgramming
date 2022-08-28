@@ -9,6 +9,7 @@ int main() {
    cout << "Size of float : " << sizeof(float) << endl;
    cout << "Size of double : " << sizeof(double) << endl;
    cout << "Size of long long : " << sizeof(long long) << endl;
+   cout << sizeof(long double) << endl;
    
    return 0;
 }
