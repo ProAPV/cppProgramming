@@ -1,0 +1,1 @@
+// Input a number n and tell wether it is equal to, less than or more than 10
